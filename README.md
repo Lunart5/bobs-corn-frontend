@@ -22,7 +22,7 @@ E-commerce application for corn sales built with React, TypeScript, Material UI,
 - Zustand
 - React Toastify
 
-<img width="912" height="874" alt="image" src="https://github.com/user-attachments/assets/844ea2f0-50c6-4871-8a02-558ea55ba196" />
+<img width="3360" height="1920" alt="image" src="https://github.com/user-attachments/assets/d6bfa793-ab87-4387-b22a-7ff8472ee71b" />
 
 ## Installation
 
