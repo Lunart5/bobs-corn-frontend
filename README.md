@@ -27,21 +27,13 @@ E-commerce application for corn sales built with React, TypeScript, Material UI,
 1. Clone the repository or download the ZIP
 
 2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
+`npm install`
 
 3. Create a `.env` file based on `.env.example`:
-\`\`\`bash
-cp .env.example .env
-\`\`\`
+`cp .env.example .env`
 
 3. Start the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
+`npm run dev`
 
 ## To create a production build:
-\`\`\`bash
-npm run build
-\`\`\`
+`npm run build`
